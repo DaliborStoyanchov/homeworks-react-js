@@ -1,0 +1,15 @@
+.Footer {
+  border: 3px solid gray;
+  box-shadow: 6px 6px black;
+  width: 60%;
+  background-color: whitesmoke;
+  height: 5rem;
+  margin: 10px auto;
+}
+
+.Footer p {
+  font-size: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

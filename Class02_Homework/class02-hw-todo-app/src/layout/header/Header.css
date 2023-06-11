@@ -1,0 +1,15 @@
+.Header {
+  margin: 20px auto;
+  border: 3px solid gray;
+  box-shadow: 6px 6px black;
+  width: 60%;
+  background-color: whitesmoke;
+}
+
+.Header h1 {
+  font-size: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-transform: uppercase;
+}

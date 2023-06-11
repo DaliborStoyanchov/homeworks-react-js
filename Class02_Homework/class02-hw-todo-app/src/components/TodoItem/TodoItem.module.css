@@ -1,0 +1,17 @@
+.todoItem {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 5px;
+  padding: 5px;
+  background-color: rgb(228, 222, 222);
+  border: 3px solid gray;
+  font-size: large;
+  box-shadow: 5px 5px black;
+  margin: 2rem 0;
+}
+
+input[type="checkbox"] {
+  width: 2rem;
+  height: 2rem;
+  margin: auto 5px;
+}
