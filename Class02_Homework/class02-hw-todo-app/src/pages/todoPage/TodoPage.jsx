@@ -13,14 +13,14 @@ function TodoPage() {
     {
       id: 2,
       text: "Todo2",
-      isFinished: true,
+      isFinished: false,
       author: "string",
       priority: "high",
     },
     {
       id: 3,
       text: "Todo3",
-      isFinished: false,
+      isFinished: true,
       author: "string",
       priority: "high",
     },
