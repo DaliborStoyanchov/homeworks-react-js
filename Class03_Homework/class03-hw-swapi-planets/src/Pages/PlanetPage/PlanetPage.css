@@ -1,0 +1,9 @@
+.PlanetPage {
+  display: flex;
+}
+
+.info-btns {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}

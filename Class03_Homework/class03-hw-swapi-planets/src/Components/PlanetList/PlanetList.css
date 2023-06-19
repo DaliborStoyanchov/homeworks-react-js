@@ -1,0 +1,14 @@
+.PlanetList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 40%;
+}
+
+.Loading {
+  background-color: #90c4ee;
+  color: black;
+  height: 30px;
+  font-size: large;
+  padding: 20px;
+}

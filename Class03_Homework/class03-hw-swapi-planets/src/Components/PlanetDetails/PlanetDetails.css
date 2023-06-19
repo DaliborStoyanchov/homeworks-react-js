@@ -1,0 +1,28 @@
+.PlanetDetails {
+  width: 30%;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.PlanetDetails .details-container {
+  width: 90%;
+  height: 90%;
+  border-radius: 5px;
+}
+
+.PlanetDetails .details-container div {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 10px;
+}
+
+.PlanetDetails .details-container div strong {
+  font-size: 18px;
+}
+
+.PlanetDetails .placeholder-container {
+  font-size: 20px;
+}
